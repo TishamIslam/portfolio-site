@@ -1,0 +1,5 @@
+// you should use the tailwind css intellisense extension
+// this prevents warnings such as "unknown at-rules" when using @apply, for example
+{
+  "css.validate": false
+}
